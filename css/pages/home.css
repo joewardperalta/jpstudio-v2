@@ -1,0 +1,14 @@
+#hero {
+  display: flex;
+  align-items: center;
+  gap: 6rem;
+}
+
+#hero div {
+  width: 100%;
+}
+
+#hero .cta {
+  display: flex;
+  gap: 0.5rem;
+}
